@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dropoutjake
 - 👀 I’m interested in Anime and Coding
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS & JS
 
 <!---
 dropoutjake/dropoutjake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
